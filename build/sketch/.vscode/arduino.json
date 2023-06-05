@@ -1,0 +1,10 @@
+#line 1 "C:\\Users\\ethan\\Desktop\\Projects\\caffeine-machine\\.vscode\\arduino.json"
+{
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "sketch": "caffeine-machine.ino",
+    "port": "COM3",
+    "output": "./build",
+    "prebuild": "IF \"%VSCA_BUILD_MODE%\"==\"Verifying\" (echo VSCA_BUILD_MODE=%VSCA_BUILD_MODE% && echo VSCA_BOARD=%VSCA_BOARD%)",
+    "intelliSenseGen": "global"
+}
